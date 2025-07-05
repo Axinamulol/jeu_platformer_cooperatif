@@ -10,4 +10,4 @@ les collisions sont gérés frame par frame.
 
 l'affichage, l'audio et les inputs sont gérés grace à pygame.
 
-J'ai même créé ma propre police d'écriture (les commande sont écrit avec celle ci dans le menu)
+J'ai même créé ma propre police d'écriture (les commande sont écrit avec celle ci dans le menu) que j'ai nommé Lysande
