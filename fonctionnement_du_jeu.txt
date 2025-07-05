@@ -1,0 +1,7 @@
+Chaque joueur jour un personnage différent toutes les 20 secondes (attention à ne pas être au dessus de piques à ce moment là !).
+
+Tim saute très haut, tandis que Lou passe à travers les murs et cours très vite.
+la barre espace est partagée donc les deux personnages sautent en même temps.
+Tim peut sauter sur la tête de Lou.
+
+Il y a ensuite des générateurs et des téléporteurs.
