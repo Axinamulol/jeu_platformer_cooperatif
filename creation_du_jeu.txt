@@ -1,0 +1,13 @@
+Tout le code est situé dans un seul fichier main.py
+
+Les seuls modules utilisés sont copy, pygame, math et random.
+
+J'ai réalisé tout le pixel art sur piskel (https://www.piskelapp.com/p/create/sprite/)
+
+une animation est le défilement de plusieurs images png à la suite : tout est fait en python dans le main.
+
+les collisions sont gérés frame par frame.
+
+l'affichage, l'audio et les inputs sont gérés grace à pygame.
+
+J'ai même créé ma propre police d'écriture (les commande sont écrit avec celle ci dans le menu)
